@@ -1,8 +1,8 @@
 #Only top bar of keyboard and "a" are programmed
-first=input("Pick a letter, any letter: ")              #Starting inputs here
-second=input("Pick another letter, any other letter: ")
-third=input("Pick yet another letter, any other letter: ")
-fourth=input("Pick a final letter, any final letter: ")
+first=input("Pick a letter from the top bar of the keyboard: ")              #Starting inputs here
+second=input("Pick another letter from the top bar of the keyboard: ")
+third=input("Pick yet another letter from the top bar of the keyboard: ")
+fourth=input("Pick a final letter from the top bar of the keyboard: ")
 x = 0
 y = 0
 def hehe (x, y):                #Definitions
