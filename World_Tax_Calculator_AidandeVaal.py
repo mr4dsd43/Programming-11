@@ -1,3 +1,6 @@
+'''make sure you import libraries when needed'''
+
+import time
 tax1 = 1.05
 tax2 = 1.13
 tax3 = 1.11
